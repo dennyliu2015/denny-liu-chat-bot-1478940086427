@@ -11,4 +11,4 @@ applications:
   - Speech to Text-pn
   - Text to Speech-hj
 env:
-CONVERSATION_WORKSPACE_ID: b84451c0-567e-4e9d-bb63-9a06b729dc3a
+  CONVERSATION_WORKSPACE_ID: b84451c0-567e-4e9d-bb63-9a06b729dc3a
